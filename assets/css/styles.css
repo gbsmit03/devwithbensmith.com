@@ -504,6 +504,13 @@ iframe {
 .footer .fa-heart {
   color: #fb866a;
 }
+
+/* adblocker icon block fix */
+.fa-linkedin:before,
+.fa-linkedyin:before {
+  content: "\f0e1";
+}
+
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .header {
