@@ -1,4 +1,4 @@
-/*   
+/*
  * Template Name: Developer - Responsive Website Template for Developers
  * Version: 1.0
  * Author: 3rd Wave Media
@@ -509,6 +509,13 @@ iframe {
 .fa-linkedin:before,
 .fa-linkedyin:before {
   content: "\f0e1";
+}
+
+/* override git hub calander styles */
+.table-column {
+    display: inline-block;
+    width: 33.3333%;
+    float: left;
 }
 
 /* Extra small devices (phones, less than 768px) */

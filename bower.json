@@ -17,6 +17,7 @@
   ],
   "dependencies": {
     "bootstrap": "^3.3.6",
-    "font-awesome": "fontawesome#^4.6.3"
+    "font-awesome": "fontawesome#^4.6.3",
+    "github-calendar": "https://github.com/IonicaBizau/github-calendar.git#^1.1.6"
   }
 }
